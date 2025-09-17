@@ -49,6 +49,11 @@ If you would like to see the document of each question, click on the links below
     ```
 5. Open a pull request.
 
+### Author
+
+**Reza Mobaraki**
+- LinkedIn: [reza-mobaraki](https://linkedin.com/in/reza-mobaraki)
+
 ### License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.

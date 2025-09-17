@@ -2,7 +2,7 @@
 name = "cinema"
 version = "0.1.0"
 description = ""
-authors = ["MrRezoo <rezam578@gmail.com>"]
+authors = ["rezamobaraki <rezam578@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
